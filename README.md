@@ -16,3 +16,4 @@ git add .
 git commit -m "เพิ่มส่วนท้ายแบบ Responsive"
 git add .
 git commit -m "README"
+git push
